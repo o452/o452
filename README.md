@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I like code and pancakes.
 <!--
 **o452/o452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
